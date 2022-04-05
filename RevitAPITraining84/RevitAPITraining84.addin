@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining84.dll"</Assembly>
+		<AddInId>1426A992-8DEE-47FF-A77F-57576FFDABAE</AddInId>
+		<FullClassName>RevitAPITraining84.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Тема 8 экспорт</Text>
+	</AddIn>
+</RevitAddIns>
